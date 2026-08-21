@@ -2,6 +2,10 @@
 
 This guide explains how to install the product.
 
+## Verify the installation
+
+After installation, open the application and confirm that you can sign in successfully.
+
 ## Prerequisites
 
 Before installing the product, make sure you have:
