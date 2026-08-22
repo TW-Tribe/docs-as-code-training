@@ -13,6 +13,10 @@ const config = {
   title: 'ExpenseFlow Documentation',
   tagline: 'Documentation for ExpenseFlow',
   favicon: 'img/favicon.ico',
+  url: 'https://tw-tribe.github.io',
+baseUrl: '/docs-as-code-training/',
+organizationName: 'TW-Tribe',
+projectName: 'docs-as-code-training',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
