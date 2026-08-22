@@ -14,9 +14,9 @@ const config = {
   tagline: 'Documentation for ExpenseFlow',
   favicon: 'img/favicon.ico',
   url: 'https://tw-tribe.github.io',
-baseUrl: '/docs-as-code-training/',
-organizationName: 'TW-Tribe',
-projectName: 'docs-as-code-training',
+  baseUrl: '/docs-as-code-training/',
+  organizationName: 'TW-Tribe',
+  projectName: 'docs-as-code-training',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -27,8 +27,8 @@ projectName: 'docs-as-code-training',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'TW-Tribe', // Usually your GitHub org/user name.
+  projectName: 'docs-as-code-training', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
