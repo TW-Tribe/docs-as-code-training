@@ -8,6 +8,10 @@ Welcome to the ExpenseFlow documentation.
 
 This documentation helps you install, use, and administer ExpenseFlow.
 
+## Documentation workflow
+
+Documentation is authored in Markdown, maintained in GitHub, and published using Docusaurus.
+
 ## Before you begin
 
 Make sure you have the required access and prerequisites before you start.
