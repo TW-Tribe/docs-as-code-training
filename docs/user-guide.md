@@ -5,6 +5,7 @@ sidebar_position: 3
 # User Guide
 
 Learn how to use ExpenseFlow.
+Added a line
 
 ## Sign in
 
