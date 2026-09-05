@@ -1,6 +1,7 @@
 # User Guide
 
 This guide explains the basic tasks that users can perform.
+Let us add three chapters.
 
 ## Sign in
 
@@ -15,6 +16,7 @@ This guide explains the basic tasks that users can perform.
 2. Select **Create Project**.
 3. Enter the project name.
 4. Select **Create**.
+
 
 ## Manage a project
 
