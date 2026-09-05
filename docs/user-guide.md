@@ -6,6 +6,10 @@ sidebar_position: 3
 
 Learn how to use ExpenseFlow.
 Added a line
+Steps to add a lin:
+1. Action 1
+2. Action 2
+
 
 ## Sign in
 
