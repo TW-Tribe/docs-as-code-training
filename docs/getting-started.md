@@ -10,6 +10,10 @@ This documentation helps you install, use, and administer ExpenseFlow.
 Testing here.
 Modified again.
 
+Adding steps:
+1. step 1
+2. Step 2
+
 ## Documentation workflow
 
 Documentation is authored in Markdown, maintained in GitHub, and published using Docusaurus.
