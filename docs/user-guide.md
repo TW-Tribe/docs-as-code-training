@@ -9,6 +9,7 @@ Added a line
 Steps to add a lin:
 1. Action 1
 2. Action 2
+3. Action 3
 
 
 ## Sign in

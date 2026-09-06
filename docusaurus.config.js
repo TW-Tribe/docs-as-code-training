@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ExpenseFlow Documentation',
-  tagline: 'Documentation for ExpenseFlow',
+  title: 'TWT Product Documentation',
+  tagline: 'Documentation for Tech Writers Tribe',
   favicon: 'img/favicon.ico',
   url: 'https://tw-tribe.github.io',
   baseUrl: '/docs-as-code-training/',
@@ -27,8 +27,6 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'TW-Tribe', // Usually your GitHub org/user name.
-  projectName: 'docs-as-code-training', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -101,16 +99,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/tech-writers-tribe',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/tech_writers_tribe',
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://twitter.com/Techwriterstri1',
               },
             ],
           },
@@ -118,13 +116,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'YouTube',
+                href:  'https://www.youtube.com/TechWritersTribe',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Tech Writer's Tribe.`,
       },
       prism: {
         theme: prismThemes.github,
