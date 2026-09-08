@@ -5,6 +5,8 @@ sidebar_position: 4
 # Administration
 
 This section is intended for ExpenseFlow administrators.
+Adding a section.
+Added steps and screenshot.
 
 ## Manage users
 
